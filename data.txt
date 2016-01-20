@@ -1,0 +1,11 @@
+EmployeeCode;First Name; Last Name;Designation;email;Phone Number;Hire Date(DDMMYYYY);Salary($);Department
+E00001;John;Due;Software Engineer;john@test.com;8100010001;01102015;$5000;Engineering
+E00002;Nane;Due;Software Engineer;nane@test.com;8100010002;01102015;$5000;Engineering
+E00003;Chris;Browne; Sr. Software Engineer;chris@test.com;8100010003;01102015;$6000;Engineering
+E00004;Mark;Tyler;Marketing Manager;mark@test.com;8100010004;02102015;$6000;Marketing
+E00005;David;Wilson;Software Engineer;david@test.com;8100010005;01102015;$5000;Engineering
+E00006;Nancy;Torre;Software Engineer;nancy@test.com;8100010006;01102015;$5000;Engineering
+E00007;Andrew;Johnson;Manager;andrew@test.com;8100010007;01102015;$5000;Engineering
+E00008;John;Moore;Software Engineer;john1@test.com;8100010008;01102015;$5000;Engineering
+E00009;Paul;Due;Software Engineer;paul@test.com;8100010009;01102015;$5000;Engineering
+E00010;Paul;Larkin;Lead;paul1@test.com;8100010011;21102015;$5000;Engineering
